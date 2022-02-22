@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anndan/code/anadanielkiewicz/TaxiFareModel/mlruns/1/caf641cce81e49ff9863def4b143e838/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: caf641cce81e49ff9863def4b143e838
+run_uuid: caf641cce81e49ff9863def4b143e838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645541269000
+status: 1
+tags: []
+user_id: unknown
